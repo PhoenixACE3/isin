@@ -10,7 +10,7 @@
     </input>
 
     <input pattern=" * {ты кто} *">
-        <output value="Я Ваш личный голосовой ассистент"/>
+        <output value="Я Исин, Ваш личный голосовой ассистент"/>
     </input>
 
     <input>
